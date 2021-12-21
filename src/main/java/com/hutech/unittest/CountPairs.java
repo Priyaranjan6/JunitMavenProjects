@@ -14,5 +14,6 @@ public class CountPairs {
 		}
 		System.out.println("Total no of pair = " + count);
 		System.out.println("Total no of pair = " + count);
+		System.out.println("Total no of pair = " + count);
 	}
 }
